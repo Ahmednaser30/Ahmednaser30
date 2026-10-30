@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Naser 👋
+# Hi, I'm Ahmed Naser 
 
 **Java Backend Developer** building secure, well-structured REST APIs with **Spring Boot**, **Spring Security** and relational databases (**MySQL**, **Oracle**).
 
