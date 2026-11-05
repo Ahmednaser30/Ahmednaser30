@@ -56,9 +56,19 @@ Uncomment once the repository is public:
 Complaint triage and SLA tracking system for a university department.
 -->
 
-<!--
-Uncomment once the code is pushed:
-
 ### 🗂️ [ERD Tool — Database Design Desktop App](https://github.com/Ahmednaser30/erd-tool)
-Draw ER diagrams in Chen notation, map them to relational tables with the seven mapping rules, and generate SQL.
--->
+A free desktop app that takes a database design from ER diagram to SQL.
+- **Design:** Chen-notation ER diagrams, checked before mapping
+- **Mapping:** the seven ER-to-relational mapping rules, with the reason for every step
+- **SQL:** generates the schema, and reads an existing SQL schema back into a diagram
+- **Download:** [Windows release](https://github.com/Ahmednaser30/erd-tool/releases/latest) with a bundled Java runtime
+
+`Java 8` `Swing`
+
+### 🧭 [Blind Guider — Android App for Blind Users](https://github.com/Ahmednaser30/blind-guider)
+An Android app (2022) for blind and visually impaired people, used without looking at the screen.
+- **Navigation:** swipe gestures, with a recorded voice guide on every screen
+- **Object detection:** real-time on the camera feed, using a TensorFlow Lite SSD model on the GPU, with boxes and labels drawn by OpenCV
+- **Status:** money detection and the reader are placeholder screens so far
+
+`Java` `Android` `TensorFlow Lite` `OpenCV`
